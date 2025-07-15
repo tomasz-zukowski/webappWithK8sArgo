@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git@github.com:tomasz-zukowski/webappWithK8sArgo.git
+    repoURL: https://github.com/tomasz-zukowski/webappWithK8sArgo.git
     targetRevision: HEAD
     path: dev
   destination:
